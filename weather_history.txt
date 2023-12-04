@@ -1,0 +1,12 @@
+City: Chicago
+Temperature: 39.20 Fahrenheit
+Feels Like: 33.80 Fahrenheit
+UV Index: 1
+Weather Description: Overcast
+------------------------
+City: Los Angeles
+Temperature: 66.20 Fahrenheit
+Feels Like: 66.20 Fahrenheit
+UV Index: 6
+Weather Description: Sunny
+------------------------
